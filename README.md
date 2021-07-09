@@ -5,8 +5,8 @@
         - input output statement
     2. Git and & Github 
     3. Git config
-       -git config --global user.name "your github name"
-       -git config --global user.name "email"
+       - git config --global user.name "your github name"
+       - git config --global user.name "email"
        - git init
        - git add * or git add .
        - git commit -m "first commit"
