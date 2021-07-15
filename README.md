@@ -1,6 +1,7 @@
 # Python7pm Online Class
 
 # Python Introduction
+
     1. Introduction
         - input output statement
     2. Git and & Github 
@@ -15,6 +16,20 @@
        - git push -u origin main
     4. Data types
        - Number: int, float,complex,boolean,none
+       - List
+       - Tuple
+       - SET
+       - Dictionary
+    5. Operators
+       - Arithmetic Opertors
+       - Comparison
+       - Logical 
+       - Assignment 
+       - Identity
+       - Membership
+       - Bitwise 
+
+
 
 
 
