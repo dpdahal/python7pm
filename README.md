@@ -28,6 +28,11 @@
        - Identity
        - Membership
        - Bitwise 
+    6. Condition Statements 
+       - if 
+       - elif
+       - else
+       - nested if else statements
 
 
 

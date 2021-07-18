@@ -8,7 +8,6 @@
 # Numeric: int,float,complex
 
 
-
 # int, float, string, boolean,none
 #  list,tuple, set, dic
 
