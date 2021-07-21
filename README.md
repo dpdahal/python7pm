@@ -33,6 +33,10 @@
        - elif
        - else
        - nested if else statements
+    7. Loop
+       - For
+       - While
+       - Nested Loop
 
 
 
