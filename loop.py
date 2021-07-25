@@ -67,3 +67,73 @@
 #
 # print(total_even)
 # print(total_odd)
+
+
+# 100; 50 break
+
+# x = 1
+#
+# while x <= 10:
+#     if x == 5:
+#         break
+#
+#     print(x)
+#     x += 1
+
+# x = 0
+#
+# while x < 10:
+#
+#     x += 1
+#     if x == 5 or x == 7:
+#         continue
+#     print(x, end=' ')
+
+# users = [
+#     ['ram', 'sita', 'hari', 'gopal', 'sophia'],
+#     ['binita', 'sunita', 'ram', 'madan', 'abc'],
+#     ['binita', 'sunita', 'abc', 'madan', 'ram']
+# ]
+#
+# x = 0
+#
+# while x < len(users):
+#     print(f"==========={x}========")
+#     for user in users[x]:
+#         print(user)
+#
+#     x += 1
+
+# print(len(users))
+
+# x = 0
+#
+# while x < len(users):
+#     print(users[x])
+#     x += 1
+
+
+# print(len(users))
+
+# for name in users:
+#     print(name)
+
+
+# for name in users:
+#     print(name)
+
+
+# data = ['binita', 'sunita', 'kalpana', 'madan', 'abc']
+#
+# x = 0
+#
+# while x < len(data):
+#     if data[x] == 'sunita':
+#         print(data[x])
+#
+#     x += 1
+
+
+# 1x1=1
+# 1x2=2
+# 10
