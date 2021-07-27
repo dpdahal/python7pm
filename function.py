@@ -90,3 +90,85 @@
 #
 #
 # my_rep('python', 200)
+
+
+# function scope
+
+# global
+# local
+
+# x = 10
+#
+#
+# def test():
+#     global x
+#     x = x + 20
+#     print(x)
+#
+#
+# test()
+
+#
+# def students(names):
+#     print(names)
+#
+#
+# students(['sita', 'ram', 'hari'])
+
+# * args: array arguments
+# ** kwrgs: keyword arguments
+
+# def students(*args, **kwargs):
+#     print(args)
+#     print(kwargs)
+#
+#
+# students('sita', 'ram', name='hari', age=20, phone=98798)
+
+# def test():
+#     """
+#     this is test
+#     function
+#     """
+#     return "Hello"
+#
+#
+# print(test.__doc__)
+# print(test.__name__)
+
+
+# add = lambda x, y: x + y
+#
+# print(add(20, 30))
+
+# def introduction():
+#     def get_function(name):
+#         return f"I am {name} function"
+#
+#     return get_function
+#
+#
+# # print(introduction()())
+# obj = introduction()
+#
+# print(obj('ram'))
+
+
+# recursive
+
+# 5 = 120
+
+
+def recursive(n):
+    if n == 1:
+        return 1
+    else:
+        return n * recursive(n - 1)
+
+
+print(recursive(5))
+
+# 5-1 =4
+# 4-1 =3
+# 3-1=2
+# 2-1 =1
