@@ -158,17 +158,35 @@
 
 # 5 = 120
 
-
-def recursive(n):
-    if n == 1:
-        return 1
-    else:
-        return n * recursive(n - 1)
-
-
-print(recursive(5))
+#
+# def recursive(n):
+#     if n == 1:
+#         return 1
+#     else:
+#         return n * recursive(n - 1)
+#
+#
+# print(recursive(5))
 
 # 5-1 =4
 # 4-1 =3
 # 3-1=2
 # 2-1 =1
+
+#
+# import calculator
+#
+# print(calculator.add(20, 40))
+# print(calculator.sub(40, 50))
+
+# * all
+from calculator import add
+from database import add as test
+
+print(add(10, 20))
+print(test())
+
+# from calculator import *
+#
+# print(add(30, 60))
+# print(sub(5, 8))

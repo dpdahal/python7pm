@@ -37,6 +37,10 @@
        - For
        - While
        - Nested Loop
+    8. Function
+       - inbuild function
+       - user define function
+       - module: import
 
 
 
