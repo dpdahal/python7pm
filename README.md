@@ -41,6 +41,7 @@
        - inbuild function
        - user define function
        - module: import
+    9. Python with mysql
 
 
 
